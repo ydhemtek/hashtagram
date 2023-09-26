@@ -1,0 +1,6 @@
+colorama==0.4.6
+feedparser==6.0.10
+instaloader==4.10
+nltk==3.8.1
+reportlab==4.0.4
+tqdm==4.65.0
