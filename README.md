@@ -16,9 +16,9 @@ Monitor multiple keywords using RSS feeds and create hashtag lists from the news
 
 ### why use this tool?
 
-this tool can help with the search for OSINT and GEOINT, initially I wanted to see if it was possible to know certain military positions thanks to the latest Instagram posts posted by soldiers on a war place. This tool can therefore get you the latest posts on a particular subject or specific keyword. AI or knowledge of GEOINT can be coupled with this tool.
+this tool can help with the search for OSINT and GEOINT, initially I wanted to see if it was possible to know certain military positions thanks to the latest Instagram posts posted by soldiers on a war place. This tool can therefore get you the latest posts on a particular subject or specific keyword. AI or knowledge of GEOINT can be coupled with this tool. It can also be used for dataset generation.
 
-### Installation
+### Installation requirements
 
 ```
 pip install -r requirements.txt
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### launch
 
 ```
-python3 Hashtagram
+python3 hashtagram.py
 ```
 
 ### keywords
